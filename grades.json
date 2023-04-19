@@ -1,0 +1,19 @@
+{
+  "Ivanov Ivan Ivanovich":
+  {
+    "mathematics": [4, 85, 92, 89],
+    "informatics" : [5, 99, 97, 95],
+    "physics": [5, 85, 98, 93],
+    "philosophy": [4, 88, 90, 89],
+    "history": [5, 93, 94, 94],
+    "biology": [4, 85, 87, 89]
+  },
+  "Petrov Petr Petrovich":
+  {
+    "mathematics": [4, 85, 92, 89],
+    "informatics" : [3, 56, 62, 59],
+    "physics": [3, 77, 75, 72],
+    "philosophy": [4, 87, 89, 89],
+    "history": [3, 59, 64, 67]
+  }
+}
